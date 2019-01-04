@@ -21,8 +21,8 @@
 1. 克隆存储库并打开下载的文件夹。
 
  ```	
-git clone https://github.com/udacity/cn-deep-learning.git
-cd cn-deep-learning/dog-project
+git clone https://github.com/udacity/MLND_CN_P4_Dog_Project.git
+cd MLND_CN_P4_Dog_Project/
 ```
 
 2. 下载[狗狗数据集](https://s3.cn-north-1.amazonaws.com.cn/static-documents/nd101/v4-dataset/dogImages.zip) ，并将数据集解压大存储库中，地点为`项目路径/dogImages`. 
